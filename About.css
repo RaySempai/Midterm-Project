@@ -1,0 +1,28 @@
+
+.inner-container{
+	width: 85%;
+	max-width: 1000px;
+	position: relative;
+	background: darkgray;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-80%);
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border-radius: 8px;
+	box-shadow: 0 0 20px #000000b3;
+	font-family: "Montserrat", sans-serif;
+	
+}
+.inner-container h1{
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: 900;
+}
+.text{
+	font-size: 20px;
+	color: #545454;
+	line-height: 30px;
+	text-align: justify;
+	margin-bottom: 40px;
+}
